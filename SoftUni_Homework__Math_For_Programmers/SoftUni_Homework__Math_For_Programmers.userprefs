@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="SoftUni_Homework__Math_For_Programmers/SoftUni_Homework__Math_For_Programmers.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SoftUni_Homework__Math_For_Programmers/TaskPrimeNumbers.cs">
+    <Files>
+      <File FileName="SoftUni_Homework__Math_For_Programmers/Start.cs" Line="1" Column="1" />
+      <File FileName="SoftUni_Homework__Math_For_Programmers/TaskPrimeNumbers.cs" Line="14" Column="17" />
+      <File FileName="SoftUni_Homework__Math_For_Programmers/TaskPrimesInFibonacci.cs" Line="1" Column="1" />
+      <File FileName="SoftUni_Homework__Math_For_Programmers/TaskFactorials.cs" Line="1" Column="1" />
+      <File FileName="SoftUni_Homework__Math_For_Programmers/TaskHypotenuses.cs" Line="1" Column="1" />
+      <File FileName="SoftUni_Homework__Math_For_Programmers/TaskNumeralSystems.cs" Line="1" Column="1" />
+      <File FileName="SoftUni_Homework__Math_For_Programmers/TaskLeastCommonMultiple.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

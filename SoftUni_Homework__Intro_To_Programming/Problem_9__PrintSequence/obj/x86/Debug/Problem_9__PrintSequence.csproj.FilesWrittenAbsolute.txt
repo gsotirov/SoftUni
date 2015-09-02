@@ -1,0 +1,5 @@
+/Users/Cortez/Projects/SoftUni_Homework__Intro_To_Programming/Problem_9__PrintSequence/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Cortez/Projects/SoftUni_Homework__Intro_To_Programming/Problem_9__PrintSequence/bin/Debug/Problem_9__PrintSequence.exe.mdb
+/Users/Cortez/Projects/SoftUni_Homework__Intro_To_Programming/Problem_9__PrintSequence/bin/Debug/Problem_9__PrintSequence.exe
+/Users/Cortez/Projects/SoftUni_Homework__Intro_To_Programming/Problem_9__PrintSequence/obj/x86/Debug/Problem_9__PrintSequence.exe
+/Users/Cortez/Projects/SoftUni_Homework__Intro_To_Programming/Problem_9__PrintSequence/obj/x86/Debug/Problem_9__PrintSequence.exe.mdb

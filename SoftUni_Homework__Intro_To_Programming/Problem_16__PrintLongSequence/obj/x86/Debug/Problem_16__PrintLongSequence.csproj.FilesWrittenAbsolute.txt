@@ -1,0 +1,5 @@
+/Users/Cortez/Projects/SoftUni_Homework__Intro_To_Programming/Problem_16__PrintLongSequence/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Cortez/Projects/SoftUni_Homework__Intro_To_Programming/Problem_16__PrintLongSequence/bin/Debug/Problem_16__PrintLongSequence.exe.mdb
+/Users/Cortez/Projects/SoftUni_Homework__Intro_To_Programming/Problem_16__PrintLongSequence/bin/Debug/Problem_16__PrintLongSequence.exe
+/Users/Cortez/Projects/SoftUni_Homework__Intro_To_Programming/Problem_16__PrintLongSequence/obj/x86/Debug/Problem_16__PrintLongSequence.exe
+/Users/Cortez/Projects/SoftUni_Homework__Intro_To_Programming/Problem_16__PrintLongSequence/obj/x86/Debug/Problem_16__PrintLongSequence.exe.mdb
