@@ -35,6 +35,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem_16_Half_Sum", "Prob
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem_17_Sunglasses", "Problem_17_Sunglasses\Problem_17_Sunglasses.csproj", "{6BE8938F-6DEC-41A0-8AB3-9F4427B757C1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem_18_NineDigit_Magic_Number", "Problem_18_NineDigit_Magic_Number\Problem_18_NineDigit_Magic_Number.csproj", "{8AA27513-B3B5-4E0D-BC64-06E12D9BCDC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem_19_Bits_Inverter", "Problem_19_Bits_Inverter\Problem_19_Bits_Inverter.csproj", "{4295CFC2-A8E1-435A-8249-148681C72157}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -53,6 +57,10 @@ Global
 		{2F00B3DD-8C07-45FD-A0D4-5D4D6700AD69}.Debug|x86.Build.0 = Debug|x86
 		{2F00B3DD-8C07-45FD-A0D4-5D4D6700AD69}.Release|x86.ActiveCfg = Release|x86
 		{2F00B3DD-8C07-45FD-A0D4-5D4D6700AD69}.Release|x86.Build.0 = Release|x86
+		{4295CFC2-A8E1-435A-8249-148681C72157}.Debug|x86.ActiveCfg = Debug|x86
+		{4295CFC2-A8E1-435A-8249-148681C72157}.Debug|x86.Build.0 = Debug|x86
+		{4295CFC2-A8E1-435A-8249-148681C72157}.Release|x86.ActiveCfg = Release|x86
+		{4295CFC2-A8E1-435A-8249-148681C72157}.Release|x86.Build.0 = Release|x86
 		{51B41673-9578-4AB5-8BEC-FDADE9D12774}.Debug|x86.ActiveCfg = Debug|x86
 		{51B41673-9578-4AB5-8BEC-FDADE9D12774}.Debug|x86.Build.0 = Debug|x86
 		{51B41673-9578-4AB5-8BEC-FDADE9D12774}.Release|x86.ActiveCfg = Release|x86
@@ -77,6 +85,10 @@ Global
 		{880F7C86-6F3C-481B-999C-496A6C7742AB}.Debug|x86.Build.0 = Debug|x86
 		{880F7C86-6F3C-481B-999C-496A6C7742AB}.Release|x86.ActiveCfg = Release|x86
 		{880F7C86-6F3C-481B-999C-496A6C7742AB}.Release|x86.Build.0 = Release|x86
+		{8AA27513-B3B5-4E0D-BC64-06E12D9BCDC3}.Debug|x86.ActiveCfg = Debug|x86
+		{8AA27513-B3B5-4E0D-BC64-06E12D9BCDC3}.Debug|x86.Build.0 = Debug|x86
+		{8AA27513-B3B5-4E0D-BC64-06E12D9BCDC3}.Release|x86.ActiveCfg = Release|x86
+		{8AA27513-B3B5-4E0D-BC64-06E12D9BCDC3}.Release|x86.Build.0 = Release|x86
 		{A54AA70F-8BDE-4BD8-89C1-BF5A8B6A65C9}.Debug|x86.ActiveCfg = Debug|x86
 		{A54AA70F-8BDE-4BD8-89C1-BF5A8B6A65C9}.Debug|x86.Build.0 = Debug|x86
 		{A54AA70F-8BDE-4BD8-89C1-BF5A8B6A65C9}.Release|x86.ActiveCfg = Release|x86

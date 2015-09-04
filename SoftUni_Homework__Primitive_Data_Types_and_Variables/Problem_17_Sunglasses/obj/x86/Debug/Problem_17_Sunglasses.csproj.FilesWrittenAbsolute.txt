@@ -1,0 +1,5 @@
+/Users/Cortez/Projects/SoftUni_Homework__Primitive_Data_Types_and_Variables/Problem_17_Sunglasses/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Cortez/Projects/SoftUni_Homework__Primitive_Data_Types_and_Variables/Problem_17_Sunglasses/bin/Debug/Problem_17_Sunglasses.exe.mdb
+/Users/Cortez/Projects/SoftUni_Homework__Primitive_Data_Types_and_Variables/Problem_17_Sunglasses/bin/Debug/Problem_17_Sunglasses.exe
+/Users/Cortez/Projects/SoftUni_Homework__Primitive_Data_Types_and_Variables/Problem_17_Sunglasses/obj/x86/Debug/Problem_17_Sunglasses.exe
+/Users/Cortez/Projects/SoftUni_Homework__Primitive_Data_Types_and_Variables/Problem_17_Sunglasses/obj/x86/Debug/Problem_17_Sunglasses.exe.mdb
