@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Problem_1__Sum_of_Three_Numbers/Problem_1__Sum_of_Three_Numbers.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Problem_2__Print_Company_Information/PrintCompanyInformation.cs">
+    <Files>
+      <File FileName="Problem_14__Sum_of_Elements/SumOfElements.cs" Line="1" Column="1" />
+      <File FileName="Problem_15__New_House/NewHouse.cs" Line="1" Column="1" />
+      <File FileName="Problem_16__Magic_Strings/MagicStrings.cs" Line="1" Column="1" />
+      <File FileName="Problem_17__Catch_the_Bits/CatchTheBits.cs" Line="1" Column="1" />
+      <File FileName="Problem_13__Working_Hours/WorkingHours.cs" Line="1" Column="1" />
+      <File FileName="Problem_12__Falling_Rocks/FallingRocks.cs" Line="101" Column="12" />
+      <File FileName="Problem_2__Print_Company_Information/PrintCompanyInformation.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
