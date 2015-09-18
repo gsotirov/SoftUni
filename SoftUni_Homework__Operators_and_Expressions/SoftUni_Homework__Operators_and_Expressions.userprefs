@@ -1,0 +1,28 @@
+﻿<Properties StartupItem="Problem_1__Odd_or_Even/Problem_1__Odd_or_Even.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Problem_17__Volleyball/Volleyball.cs">
+    <Files>
+      <File FileName="Problem_1__Odd_or_Even/OddOrEven.cs" Line="1" Column="1" />
+      <File FileName="Problem_2__Gravitation_on_the_Moon/GravitationOnTheMoon.cs" Line="1" Column="1" />
+      <File FileName="Problem_3__Divided_by_7_and_5/DividedBy7And5.cs" Line="1" Column="1" />
+      <File FileName="Problem_4__Rectangles/Rectangles.cs" Line="1" Column="1" />
+      <File FileName="Problem_5__Third_Digit_is_7/ThirdDigitIs7.cs" Line="1" Column="1" />
+      <File FileName="Problem_6__Four_Digit_Number/FourDigitNumber.cs" Line="1" Column="1" />
+      <File FileName="Problem_7__Points_in_Circle/PointsInCircle.cs" Line="1" Column="1" />
+      <File FileName="Problem_8__Prime_Number_Check/PrimeNumberCheck.cs" Line="1" Column="1" />
+      <File FileName="Problem_9__Trapezoids/Trapezoids.cs" Line="1" Column="1" />
+      <File FileName="Problem_10__Points_Inside_a_Circle_Outside_a_Rectangle/PointsInsideCircleOutsideRectangle.cs" Line="1" Column="1" />
+      <File FileName="Problem_11__Extract_Third_Bit/ExtractThirdBit.cs" Line="1" Column="1" />
+      <File FileName="Problem_12__Extract_Bit_from_Integer/ExtractBitFromInteger.cs" Line="1" Column="1" />
+      <File FileName="Problem_13__Check_a_Bit_at_Given_Position/CheckABitAtGivenPosition.cs" Line="1" Column="1" />
+      <File FileName="Problem_14__Modify_a_Bit_at_Given_Position/ModifyABitAtGivenPosition.cs" Line="1" Column="1" />
+      <File FileName="Problem_15__Bits_Exchange/BitsExchange.cs" Line="1" Column="1" />
+      <File FileName="Problem_16__Advanced_Bits_Exchange/AdvancedBitsExchange.cs" Line="65" Column="10" />
+      <File FileName="Problem_17__Volleyball/Volleyball.cs" Line="15" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

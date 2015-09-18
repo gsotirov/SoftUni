@@ -1,0 +1,5 @@
+/Users/Cortez/Projects/SoftUni_Homework__Operators_and_Expressions/Problem_3__Divided_by_7_and_5/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Cortez/Projects/SoftUni_Homework__Operators_and_Expressions/Problem_3__Divided_by_7_and_5/bin/Debug/Problem_3__Divided_by_7_and_5.exe.mdb
+/Users/Cortez/Projects/SoftUni_Homework__Operators_and_Expressions/Problem_3__Divided_by_7_and_5/bin/Debug/Problem_3__Divided_by_7_and_5.exe
+/Users/Cortez/Projects/SoftUni_Homework__Operators_and_Expressions/Problem_3__Divided_by_7_and_5/obj/x86/Debug/Problem_3__Divided_by_7_and_5.exe
+/Users/Cortez/Projects/SoftUni_Homework__Operators_and_Expressions/Problem_3__Divided_by_7_and_5/obj/x86/Debug/Problem_3__Divided_by_7_and_5.exe.mdb

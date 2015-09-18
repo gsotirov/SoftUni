@@ -1,0 +1,5 @@
+/Users/Cortez/Projects/SoftUni_Homework__Operators_and_Expressions/Problem_8__Prime_Number_Check/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Cortez/Projects/SoftUni_Homework__Operators_and_Expressions/Problem_8__Prime_Number_Check/bin/Debug/Problem_8__Prime_Number_Check.exe.mdb
+/Users/Cortez/Projects/SoftUni_Homework__Operators_and_Expressions/Problem_8__Prime_Number_Check/bin/Debug/Problem_8__Prime_Number_Check.exe
+/Users/Cortez/Projects/SoftUni_Homework__Operators_and_Expressions/Problem_8__Prime_Number_Check/obj/x86/Debug/Problem_8__Prime_Number_Check.exe
+/Users/Cortez/Projects/SoftUni_Homework__Operators_and_Expressions/Problem_8__Prime_Number_Check/obj/x86/Debug/Problem_8__Prime_Number_Check.exe.mdb
