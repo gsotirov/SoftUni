@@ -1,0 +1,5 @@
+/Users/Cortez/Projects/SoftUni_Homework__Conditional_Statements/Problem_12__Zero_Subset/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Cortez/Projects/SoftUni_Homework__Conditional_Statements/Problem_12__Zero_Subset/bin/Debug/Problem_12__Zero_Subset.exe.mdb
+/Users/Cortez/Projects/SoftUni_Homework__Conditional_Statements/Problem_12__Zero_Subset/bin/Debug/Problem_12__Zero_Subset.exe
+/Users/Cortez/Projects/SoftUni_Homework__Conditional_Statements/Problem_12__Zero_Subset/obj/x86/Debug/Problem_12__Zero_Subset.exe
+/Users/Cortez/Projects/SoftUni_Homework__Conditional_Statements/Problem_12__Zero_Subset/obj/x86/Debug/Problem_12__Zero_Subset.exe.mdb

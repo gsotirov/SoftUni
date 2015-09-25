@@ -1,0 +1,5 @@
+/Users/Cortez/Projects/SoftUni_Homework__Conditional_Statements/Problem_13__Triangle/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Cortez/Projects/SoftUni_Homework__Conditional_Statements/Problem_13__Triangle/bin/Debug/Problem_13__Triangle.exe.mdb
+/Users/Cortez/Projects/SoftUni_Homework__Conditional_Statements/Problem_13__Triangle/bin/Debug/Problem_13__Triangle.exe
+/Users/Cortez/Projects/SoftUni_Homework__Conditional_Statements/Problem_13__Triangle/obj/x86/Debug/Problem_13__Triangle.exe
+/Users/Cortez/Projects/SoftUni_Homework__Conditional_Statements/Problem_13__Triangle/obj/x86/Debug/Problem_13__Triangle.exe.mdb

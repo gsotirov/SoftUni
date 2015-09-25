@@ -1,0 +1,5 @@
+/Users/Cortez/Projects/SoftUni_Homework__Conditional_Statements/Problem_10__Beer_Time/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Cortez/Projects/SoftUni_Homework__Conditional_Statements/Problem_10__Beer_Time/bin/Debug/Problem_10__Beer_Time.exe.mdb
+/Users/Cortez/Projects/SoftUni_Homework__Conditional_Statements/Problem_10__Beer_Time/bin/Debug/Problem_10__Beer_Time.exe
+/Users/Cortez/Projects/SoftUni_Homework__Conditional_Statements/Problem_10__Beer_Time/obj/x86/Debug/Problem_10__Beer_Time.exe
+/Users/Cortez/Projects/SoftUni_Homework__Conditional_Statements/Problem_10__Beer_Time/obj/x86/Debug/Problem_10__Beer_Time.exe.mdb

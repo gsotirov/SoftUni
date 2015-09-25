@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Problem_01__Exchange_if_Greater/Problem_01__Exchange_if_Greater.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Problem_13__Triangle/Tirangle.cs">
+    <Files>
+      <File FileName="Problem_06__Biggest_of_Five_Numbers/BiggestOfFiveNumbers.cs" Line="1" Column="1" />
+      <File FileName="Problem_07__Sort_Three_Numbers/SortThreeNumbers.cs" Line="1" Column="1" />
+      <File FileName="Problem_08__Digit_as_Word/DigitAsWord.cs" Line="1" Column="1" />
+      <File FileName="Problem_09__Int_Double_and_String/IntDoubleAndString.cs" Line="1" Column="1" />
+      <File FileName="Problem_10__Beer_Time/BeerTime.cs" Line="1" Column="1" />
+      <File FileName="Problem_11__Number_as_Words/NumberAsWords.cs" Line="1" Column="1" />
+      <File FileName="Problem_12__Zero_Subset/ZeroSubset.cs" Line="14" Column="5" />
+      <File FileName="Problem_13__Triangle/Tirangle.cs" Line="9" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
