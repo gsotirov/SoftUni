@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="Problem_01__Numbers_from_1_to_N/Problem_01__Numbers_from_1_to_N.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Problem_17__Calculate_GCD/CalculateGCD.cs">
+    <Files>
+      <File FileName="Problem_17__Calculate_GCD/CalculateGCD.cs" Line="7" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
