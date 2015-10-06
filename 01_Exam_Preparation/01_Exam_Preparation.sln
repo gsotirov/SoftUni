@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Compound_Interest", "Compound_Interest\Compound_Interest.csproj", "{6277824B-FE3A-4F9A-9C88-621DD46B3384}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Peters_Game", "Peters_Game\Peters_Game.csproj", "{8315136F-E234-4720-A0CB-AF832C778013}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sunlight", "Sunlight\Sunlight.csproj", "{CC433C9B-6253-436E-BCF2-FD4C7DCBAB44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encrypt_the_Messages", "Encrypt_the_Messages\Encrypt_the_Messages.csproj", "{8108DAA4-D4AC-44E1-B68D-9E1CD742A9B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game_of_Life", "Game_of_Life\Game_of_Life.csproj", "{52233677-6BF3-4F7E-A779-63313F49D331}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52233677-6BF3-4F7E-A779-63313F49D331}.Debug|x86.ActiveCfg = Debug|x86
+		{52233677-6BF3-4F7E-A779-63313F49D331}.Debug|x86.Build.0 = Debug|x86
+		{52233677-6BF3-4F7E-A779-63313F49D331}.Release|x86.ActiveCfg = Release|x86
+		{52233677-6BF3-4F7E-A779-63313F49D331}.Release|x86.Build.0 = Release|x86
+		{6277824B-FE3A-4F9A-9C88-621DD46B3384}.Debug|x86.ActiveCfg = Debug|x86
+		{6277824B-FE3A-4F9A-9C88-621DD46B3384}.Debug|x86.Build.0 = Debug|x86
+		{6277824B-FE3A-4F9A-9C88-621DD46B3384}.Release|x86.ActiveCfg = Release|x86
+		{6277824B-FE3A-4F9A-9C88-621DD46B3384}.Release|x86.Build.0 = Release|x86
+		{8108DAA4-D4AC-44E1-B68D-9E1CD742A9B1}.Debug|x86.ActiveCfg = Debug|x86
+		{8108DAA4-D4AC-44E1-B68D-9E1CD742A9B1}.Debug|x86.Build.0 = Debug|x86
+		{8108DAA4-D4AC-44E1-B68D-9E1CD742A9B1}.Release|x86.ActiveCfg = Release|x86
+		{8108DAA4-D4AC-44E1-B68D-9E1CD742A9B1}.Release|x86.Build.0 = Release|x86
+		{8315136F-E234-4720-A0CB-AF832C778013}.Debug|x86.ActiveCfg = Debug|x86
+		{8315136F-E234-4720-A0CB-AF832C778013}.Debug|x86.Build.0 = Debug|x86
+		{8315136F-E234-4720-A0CB-AF832C778013}.Release|x86.ActiveCfg = Release|x86
+		{8315136F-E234-4720-A0CB-AF832C778013}.Release|x86.Build.0 = Release|x86
+		{CC433C9B-6253-436E-BCF2-FD4C7DCBAB44}.Debug|x86.ActiveCfg = Debug|x86
+		{CC433C9B-6253-436E-BCF2-FD4C7DCBAB44}.Debug|x86.Build.0 = Debug|x86
+		{CC433C9B-6253-436E-BCF2-FD4C7DCBAB44}.Release|x86.ActiveCfg = Release|x86
+		{CC433C9B-6253-436E-BCF2-FD4C7DCBAB44}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

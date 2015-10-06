@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Compound_Interest/Compound_Interest.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Game_of_Life/GameOfLife.cs">
+    <Files>
+      <File FileName="Compound_Interest/CompoundInterest.cs" Line="13" Column="4" />
+      <File FileName="Peters_Game/PetersGame.cs" Line="16" Column="8" />
+      <File FileName="Sunlight/SunLight.cs" Line="6" Column="3" />
+      <File FileName="Encrypt_the_Messages/EncryptTheMessages.cs" Line="15" Column="16" />
+      <File FileName="Game_of_Life/GameOfLife.cs" Line="9" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
